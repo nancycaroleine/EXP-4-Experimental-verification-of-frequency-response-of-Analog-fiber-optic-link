@@ -68,22 +68,22 @@ current flows through its emitter generating the voltage across the resistance c
 
 ## BLOCK DIAGR
 
-
+![output](o3.png)
 ---
 
 
 ## TABULATION  
 
-![output](a1.jpeg)
+![output](o1.jpeg)
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
 
-![output](a2.jpeg)
+
+![output](o2.jpeg)
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus the frequency response of analog link is observed.
