@@ -68,7 +68,7 @@ current flows through its emitter generating the voltage across the resistance c
 
 ## BLOCK DIAGR
 
-![output](o3.png)
+<img width="931" height="541" alt="image" src="https://github.com/user-attachments/assets/82873f57-1ff7-43ef-a048-16ef213f35e9" />
 ---
 
 
